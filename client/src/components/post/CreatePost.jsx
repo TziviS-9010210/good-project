@@ -3,6 +3,7 @@ import Posts from "./Posts"
 import { Dialog } from 'primereact/dialog';
 import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
+console.log("lea you are the best!!")
 
 const CreatPost = (props) => {
     const { visible } = props
