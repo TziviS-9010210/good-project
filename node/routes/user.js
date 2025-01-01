@@ -7,6 +7,5 @@ const {name} = req.body
 const username = await User.create({name:name});
 res.json(user)
 })
-console.log("from vs");
 
 module.exports = router
