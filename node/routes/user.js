@@ -8,5 +8,6 @@ const username = await User.create({name:name});
 res.json(user)
 })
 console.log("from vs");
+   console.log("lea you are the best!!")
 
 module.exports = router
