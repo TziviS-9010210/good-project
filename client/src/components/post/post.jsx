@@ -4,6 +4,7 @@ import { Button } from 'primereact/button';
 import Posts from "./Posts"
 import { Card } from 'primereact/card';
 import UpdatePost from "./UpdatePost";
+console.log("lea you are the best!!")
 
 
 const Post = (props) => {
