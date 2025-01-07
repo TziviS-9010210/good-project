@@ -13,6 +13,8 @@ import './flags.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   const navigate = useNavigate();
+    const navigate1 = useNavigate();
+
   const items = [
 
     {
